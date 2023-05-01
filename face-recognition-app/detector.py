@@ -1,3 +1,5 @@
+# TODO Refactor code to use opencv to load the training images and set their label
+
 from pathlib import Path
 
 import face_recognition
